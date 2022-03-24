@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "SATYABRATA",
+      "last_name": "DAS",
+      "mobile": "07978 544299",
+      "email": "satya12325@gmail.com",
+      "password": "sa",
+      "id": 1
+    },
+    {
+      "name": "Anisha",
+      "last_name": "Jena",
+      "mobile": "08249842237",
+      "email": "satya@gmail.com",
+      "password": "as",
+      "id": 2
+    },
+    {
+      "name": "SATYABRATA",
+      "last_name": "DAS",
+      "mobile": "07978 544299",
+      "email": "satya12325.in@gmail.com",
+      "password": "ss",
+      "id": 3
+    }
+  ]
+}

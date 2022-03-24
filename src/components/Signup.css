@@ -1,0 +1,23 @@
+.inputs{
+    height:35px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    width: 100%;
+}
+.btn{
+    height: 35px;
+    border-radius: 5px;
+    background: tomato;
+    border: 1px solid tomato;
+    color: white;
+    cursor: pointer;
+}
+.profile{
+    width:30%;  
+    padding:20px;
+    border : 1px solid rgb(168, 167, 164);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
